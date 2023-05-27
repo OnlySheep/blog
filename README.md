@@ -17,7 +17,9 @@
 
 ## 3、在线访问网址
 
-<kbd>我的博客 :</kbd>  **http://blog.onlysheeps.com**
+<kbd>我的在线博客 :</kbd>  **http://blog.onlysheeps.com**
+
+<kbd>源码仓库地址 :</kbd>  **https://github.com/OnlySheep/blog**
 
 ## 4、项目意义
 
@@ -311,7 +313,7 @@
 >>})
 >>```
 
-### 6.2<kbd>css动画效果</kbd>
+### 6.2、<kbd>css动画效果</kbd>
 
 <img src="assets/ezgif.com-video-to-gif-16850950283203.gif" alt="ezgif.com-video-to-gif" style="zoom: 200%;" />
 
